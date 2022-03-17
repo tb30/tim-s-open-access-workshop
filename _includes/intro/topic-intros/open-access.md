@@ -1,4 +1,4 @@
-Open Access training aims to helps researchers disseminate their research widely using Open Access publication approaches.
+Open Access training is really really great. aims to helps researchers disseminate their research widely using Open Access publication approaches.
 
 This training will teach researchers to:
 * navigate and identify intitutional and funder **policies**

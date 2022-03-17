@@ -21,7 +21,7 @@ originalRepository: UKRN-Open-Research/open-code-workshop-template
 
 ---
 ## What is Open Access
-Open Access means that readers have free, unrestricted access to published research outputs.
+Open Access means free, unrestricted online access to published research outputs.
 
 ## Why choose Open Access?
 

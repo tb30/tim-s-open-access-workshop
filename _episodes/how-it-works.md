@@ -1,16 +1,19 @@
 ---
-title: How does Open Access work?
+title: Institutional and funder Open Access requirements
 teaching: 20
 exercises: 10
 duration: null
 summary: A discussion on the pros (and cons?) of sharing open access publishing.
-questions:
+questions: null
 objectives:
   - Understand different kinds of Open Access publishing models
 keypoints:
-  - Green Open Access means you place a copy in a public repository (sometimes after a delay)
-  - Gold Open Access means the journal makes it available free (usually for a cost to you)
-  - Diamond Open Access means the journal makes it available for free (and doesn't charge you)
+  - Green Open Access means you place a copy in a public repository (sometimes
+    after a delay)
+  - Gold Open Access means the journal makes it available free (usually for a
+    cost to you)
+  - Diamond Open Access means the journal makes it available for free (and
+    doesn't charge you)
 is-break: null
 ukrn_wb_rules: []
 day: 1
@@ -20,7 +23,6 @@ dependencies: []
 originalRepository: UKRN-Open-Research/open-code-workshop-template
 
 ---
-
 ## Four models
 
 There are four models of Open Access publishing, roughly forming a rough hierarchy from worst to best:

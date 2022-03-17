@@ -1,11 +1,11 @@
 ---
-title: Publishing OA at Bristol
+title: Publishing OA at ARU
 teaching: 20
 exercises: null
 duration: null
 summary: How to publish Open Access articles as a member of the University of Bristol.
-questions:
-objectives:
+questions: null
+objectives: null
 keypoints:
   - Upload copies to Pure for Green Open Access
   - Finding funds for Gold and Hybrid Open Access
@@ -18,7 +18,6 @@ dependencies: []
 originalRepository: UKRN-Open-Research/open-code-workshop-template
 
 ---
-
 ## Submission
 
 Where you can submit, and how the Open Access costs are paid, depends on who has funded your work.

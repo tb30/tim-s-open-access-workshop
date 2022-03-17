@@ -25,7 +25,7 @@ Where you can submit, and how the Open Access costs are paid, depends on who has
 ### _Everyone_
 
 Everyone needs to
-- understand [their funder's open access policy](https://www.bristol.ac.uk/staff/researchers/open-access/funder-requirements/)
+- understand [the latest news](www.bbc.co.uk)
 - be aware of [Bristol's list of read-and-publish deals](https://www.bristol.ac.uk/staff/researchers/open-access/funding/read--publish--transformative-deals-/)
 - **save drafts** of the manuscript so you have a copy of the submitted version
 

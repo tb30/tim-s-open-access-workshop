@@ -1,11 +1,11 @@
 ---
 title: Why publish open access?
 teaching: null
-exercises: 30
+exercises: 35
 duration: null
 summary: A discussion on the pros (and cons?) of sharing open access publishing.
-questions:
-objectives:
+questions: null
+objectives: null
 keypoints:
   - Open access means your work can be more widely read
   - Greater scrutiny from more experts
@@ -20,7 +20,6 @@ dependencies: []
 originalRepository: UKRN-Open-Research/open-code-workshop-template
 
 ---
-
 ## What is Open Access
 Open Access means that readers have free, unrestricted access to published research outputs.
 
